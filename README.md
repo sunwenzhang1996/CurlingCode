@@ -1,5 +1,5 @@
 # CurlingCode
-
+![](https://github.com/sunwenzhang1996/CurlingCode/blob/main/1.png)
 -------------
 Dectect algorithm is YOLOV3-tiny retrained on our own curling dataset.
 ### Features：
