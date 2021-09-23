@@ -22,3 +22,6 @@ Following technical parameters can be calculated from our algorithm.
 - angular velocity
 - positions
 - distance from certain positions
+- ......
+
+
