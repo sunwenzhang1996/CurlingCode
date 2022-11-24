@@ -28,4 +28,6 @@ Following technical parameters can be calculated from our algorithm.
 - distance from certain positions
 - ......
 
+![](images/data-vis.png)
 
+Visual presentation of different parameters
