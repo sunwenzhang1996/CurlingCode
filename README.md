@@ -1,8 +1,8 @@
 # CurlingCode
+This project is used to provide visualization parameters along with video in real time during curling training. We display the trajectory, speed and other parameters in real time on the main interface.
 ![](images/vis.png)
 <!-- <img src="https://github.com/sunwenzhang1996/CurlingCode/blob/main/images/vis.png" width="100px"> -->
 -------------
-This implementation is developed for curling training.
 ### Features：
 #### Visualization:
 - Real-time situation of the track. (corrected and stitched from four cameras)
