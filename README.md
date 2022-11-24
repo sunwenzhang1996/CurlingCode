@@ -1,7 +1,7 @@
 # CurlingCode
-![](https://github.com/sunwenzhang1996/CurlingCode/images/vis.png)
+![](images/vis.png)
 -------------
-Dectect algorithm is YOLOV3-tiny retrained on our own curling dataset.
+This implementation is developed for curling training.
 ### Features：
 #### Visualization:
 - Real-time situation of the track. (corrected and stitched from four cameras)
