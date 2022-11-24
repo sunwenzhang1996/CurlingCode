@@ -1,5 +1,6 @@
 # CurlingCode
 ![](images/vis.png)
+<!-- <img src="https://github.com/sunwenzhang1996/CurlingCode/blob/main/images/vis.png" width="100px"> -->
 -------------
 This implementation is developed for curling training.
 ### Features：
