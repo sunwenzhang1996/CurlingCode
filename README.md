@@ -10,6 +10,9 @@ This project is used to provide visualization parameters along with video in rea
 - Heat map which stand for the friction of the surface.
 - Different technical parameters.
 
+![](images/ipad.png)
+
+Real-time display and data presentation on the IPAD.
 #### Technical parameters:
 
 Following technical parameters can be calculated from our algorithm. 
